@@ -98,7 +98,8 @@ body{
   text-align: justify;
 }
 .main-container button {
-  width: 30%;
+  width: fit-content;
+  height: fit-content;
   color: #fff;
   background-color:  #800020;
   border-color: transparent;
